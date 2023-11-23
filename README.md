@@ -1,6 +1,6 @@
 # Uevent project
 
-It is the university project, created using React, Node.js and SQLite3. It also uses GooglePay and GoogleMaps APIs.\
+It is the university project, created using React, Node.js and MongoDB. It also uses GooglePay and GoogleMaps APIs.\
 The project goal was to create a poster site. It gives the opportunity to post concert events and sell tickets to customers.\
 As a customer, you can sort all events by groups, see the concert location on map, save events and set notifications of their start.
 
