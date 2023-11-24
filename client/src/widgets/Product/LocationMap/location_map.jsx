@@ -5,7 +5,7 @@ import "./style.css"
 
 const LocationMap = () => {
     const { isLoaded } = useLoadScript({
-        googleMapsApiKey: "AIzaSyA8v1EcYrQdf9BXlQzvMRvNxHbjbPi4DcM",
+        googleMapsApiKey: process.env.MAPS_KEY,
     });
 
     if (!isLoaded)
